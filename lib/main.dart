@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'Loja Flutter',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        primaryColor: Color.fromARGB(255, 114, 163, 212)
+        primaryColor: Color.fromARGB(255, 45, 68, 102)
       ),
         debugShowCheckedModeBanner: false,
         home: HomeScreen()
